@@ -2,7 +2,7 @@
 #include <cstdlib>
 
 // mega cringe code, aaaaahahahahahahah, sup (это я придумал а серега украл ха-ха)
-// new comment
+// new comment fdf
 int main()
 {
     std::string name;
