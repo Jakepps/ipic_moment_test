@@ -1,10 +1,13 @@
 #include <iostream>
 #include <cstdlib>
-using namespace std;
 
+// mega cringe code, aaaaahahahahahahah, sup (это я придумал а серега украл ха-ха)
+// new comment
 int main()
 {
-    cout << "Hello, world!" << endl;
-    system("pause");
+    std::string name;
+    std::cout << "Please enter your name: ";
+    std::cin >> name;
+    std::cout << "Hello world from @" << name << std::endl;
     return 0;
 }
